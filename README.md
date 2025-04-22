@@ -39,7 +39,7 @@ Utilizamos a [PokeAPI](https://pokeapi.co/) para buscar dados em tempo real e cr
 
 ## 🚀 Resultados
 
-Esse projeto une criatividade, integração técnica e boas práticas de arquitetura, com foco total na experiência do usuário. É uma entrega pensada para **encantar visualmente** e **funcionar perfeitamente** em qualquer dispositivo.
+Esse projeto, feito por mim, une criatividade, integração técnica e boas práticas de arquitetura, com foco total na experiência do usuário. É uma entrega pensada para **encantar visualmente** e **funcionar perfeitamente** em qualquer dispositivo.
 
 ---
 
