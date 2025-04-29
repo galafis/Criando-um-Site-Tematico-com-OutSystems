@@ -1,6 +1,6 @@
 # 🌟 Site Temático com OutSystems – Projeto Final
 
-Este projeto, feito por mim, representa o grande encerramento desta jornada de aprendizado com OutSystems , desafiando-nos a criar um site temático cativante, interativo e cheio de personalidade. Aqui, unimos **design criativo**, **tecnologia robusta** e **integração com APIs reais**, tudo em uma entrega completa que inclui versões web e mobile.
+Este projeto representa o grande encerramento da jornada de aprendizado com OutSystems, desafiando-nos a criar um site temático cativante, interativo e cheio de personalidade. Aqui, unimos **design criativo**, **tecnologia robusta** e **integração com APIs reais**, tudo em uma entrega completa que inclui versões web e mobile.
 
 ## 🎨 Tema Escolhido
 
@@ -39,7 +39,7 @@ Utilizamos a [PokeAPI](https://pokeapi.co/) para buscar dados em tempo real e cr
 
 ## 🚀 Resultados
 
-Esse projeto, feito por mim, une criatividade, integração técnica e boas práticas de arquitetura, com foco total na experiência do usuário. É uma entrega pensada para **encantar visualmente** e **funcionar perfeitamente** em qualquer dispositivo.
+Esse projeto une criatividade, integração técnica e boas práticas de arquitetura, com foco total na experiência do usuário. É uma entrega pensada para **encantar visualmente** e **funcionar perfeitamente** em qualquer dispositivo.
 
 ---
 
