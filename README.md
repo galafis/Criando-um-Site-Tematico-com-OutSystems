@@ -45,3 +45,23 @@ Esse projeto une criatividade, integração técnica e boas práticas de arquite
 
 🌟 Um site temático imersivo vai além da programação: ele conta histórias, provoca nostalgia e entrega valor real ao visitante. Com OutSystems, transformamos essa visão em realidade!
 
+
+
+## 📋 Descrição
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📦 Instalação
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 💻 Uso
+
+Descreva aqui o conteúdo desta seção.
+
+
+## 📄 Licença
+
+Descreva aqui o conteúdo desta seção.
