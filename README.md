@@ -23,27 +23,20 @@ O projeto foca na criação de um site temático utilizando a plataforma OutSyst
 ### 📁 Estrutura do Repositório
 
 ```
-.github/
-├── workflows/
-│   └── main.yml
-├── pages/
-│   └── index.html
-├── assets/
-│   └── hero-image.png
-├── docs/
-│   └── README.md
-│   └── architecture.mmd
-├── src/
-│   └── SiteTematico_Pokemon.oml
-├── .gitignore
-├── LICENSE
-└── README.md
+assets/
+├── hero-image.png
+docs/
+├── README.md
+├── architecture.mmd
+src/
+├── SiteTematico_Pokemon.oml
+.gitignore
+LICENSE
+README.md
 ```
 
 - `src/`: Contém os arquivos fonte do projeto OutSystems (.oml).
 - `docs/`: Contém a documentação detalhada do projeto, incluindo o README original e diagramas.
-- `.github/workflows/`: Arquivos de configuração para GitHub Actions (CI/CD).
-- `.github/pages/`: Arquivos para a página de demonstração no GitHub Pages.
 - `assets/`: Recursos visuais como a imagem hero.
 - `LICENSE`: O arquivo de licença do projeto.
 - `README.md`: Este arquivo, com a documentação bilíngue e visão geral do projeto.
@@ -112,27 +105,20 @@ The project focuses on creating a thematic website using the OutSystems platform
 ### 📁 Repository Structure
 
 ```
-.github/
-├── workflows/
-│   └── main.yml
-├── pages/
-│   └── index.html
-├── assets/
-│   └── hero-image.png
-├── docs/
-│   └── README.md
-│   └── architecture.mmd
-├── src/
-│   └── SiteTematico_Pokemon.oml
-├── .gitignore
-├── LICENSE
-└── README.md
+assets/
+├── hero-image.png
+docs/
+├── README.md
+├── architecture.mmd
+src/
+├── SiteTematico_Pokemon.oml
+.gitignore
+LICENSE
+README.md
 ```
 
 - `src/`: Contains the OutSystems project source files (.oml).
 - `docs/`: Contains detailed project documentation, including the original README and diagrams.
-- `.github/workflows/`: Configuration files for GitHub Actions (CI/CD).
-- `.github/pages/`: Files for the GitHub Pages demonstration page.
 - `assets/`: Visual resources such as the hero image.
 - `LICENSE`: The project license file.
 - `README.md`: This file, with bilingual documentation and project overview.
@@ -175,4 +161,21 @@ graph TD
 [![GitHub repo size](https://img.shields.io/github/repo-size/galafis/Criando-um-Site-Tematico-com-OutSystems)](https://github.com/galafis/Criando-um-Site-Tematico-com-OutSystems)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+
+
+
+## 🌐 GitHub Pages (Configuração Manual)
+
+Para visualizar uma demonstração interativa deste projeto via GitHub Pages, siga os passos abaixo para configurar manualmente:
+
+1.  **Acesse as Configurações do Repositório**: No seu repositório GitHub, clique na aba `Settings` (Configurações).
+2.  **Navegue até GitHub Pages**: No menu lateral esquerdo, clique em `Pages`.
+3.  **Selecione a Branch e Pasta**: Em `Build and deployment`, selecione `Deploy from a branch`.
+    *   Para `Branch`, escolha `main` (ou a branch principal do seu repositório).
+    *   Para `Folder`, selecione `/pages`.
+4.  **Salvar**: Clique em `Save` (Salvar).
+
+Após a configuração, o GitHub Pages será ativado e o site de demonstração estará disponível em um URL similar a `https://galafis.github.io/Criando-um-Site-Tematico-com-OutSystems/`.
+
+O arquivo `pages/index.html` foi preparado para servir como uma página de demonstração simples, direcionando os visitantes de volta ao repositório principal.
 
