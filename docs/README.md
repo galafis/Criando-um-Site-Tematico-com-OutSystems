@@ -65,3 +65,14 @@ Descreva aqui o conteúdo desta seção.
 ## 📄 Licença
 
 Descreva aqui o conteúdo desta seção.
+
+
+## ⚠️ Limitações e Considerações sobre o Código OutSystems
+
+É importante notar que o arquivo `SiteTematico_Pokemon.oml` é um artefato binário gerado pela plataforma OutSystems. Devido à natureza proprietária e de baixo código da plataforma, as seguintes limitações se aplicam:
+
+- **Aprimoramento Direto do Código**: Não é possível realizar edições diretas ou aprimoramentos no código-fonte dentro do arquivo `.oml` utilizando ferramentas de desenvolvimento convencionais (como editores de texto ou IDEs padrão). Quaisquer modificações devem ser feitas através do ambiente de desenvolvimento OutSystems.
+- **Testes Unitários e Validação**: A implementação de testes unitários e validação completa do código-fonte, conforme as práticas de desenvolvimento tradicionais, não é aplicável diretamente ao arquivo `.oml`. A funcionalidade e a qualidade do código são validadas dentro do ambiente OutSystems, que oferece suas próprias ferramentas de depuração e teste.
+
+Este repositório foca na demonstração da estrutura do projeto, documentação e integração com APIs, conforme desenvolvido originalmente por Gabriel Demetrios Lafis na plataforma OutSystems. A funcionalidade do aplicativo é garantida pela execução no ambiente OutSystems.
+
