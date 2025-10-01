@@ -76,6 +76,12 @@ graph TD
 
 <!-- BADGES_PLACEHOLDER -->
 
+### 🖼️ Imagem Hero
+
+![Imagem Hero do Projeto](assets/hero-image.png)
+
+
+
 [![GitHub last commit](https://img.shields.io/github/last-commit/galafis/Criando-um-Site-Tematico-com-OutSystems)](https://github.com/galafis/Criando-um-Site-Tematico-com-OutSystems/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/galafis/Criando-um-Site-Tematico-com-OutSystems)](https://github.com/galafis/Criando-um-Site-Tematico-com-OutSystems)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -158,6 +164,12 @@ graph TD
 ### 🏅 Badges
 
 <!-- BADGES_PLACEHOLDER -->
+
+### 🖼️ Imagem Hero
+
+![Imagem Hero do Projeto](assets/hero-image.png)
+
+
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/galafis/Criando-um-Site-Tematico-com-OutSystems)](https://github.com/galafis/Criando-um-Site-Tematico-com-OutSystems/commits/main)
 [![GitHub repo size](https://img.shields.io/github/repo-size/galafis/Criando-um-Site-Tematico-com-OutSystems)](https://github.com/galafis/Criando-um-Site-Tematico-com-OutSystems)
