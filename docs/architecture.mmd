@@ -1,0 +1,6 @@
+graph TD
+    A[Usuário] -->|Acessa| B(Aplicação Web/Mobile OutSystems)
+    B -->|Consome| C[API Externa: PokeAPI]
+    C -->|Dados de Pokémon| B
+    B -->|Persiste Dados| D[Banco de Dados Local]
+    D -->|Sincronizado via Timer| C
